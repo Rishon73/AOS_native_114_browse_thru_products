@@ -1,0 +1,13 @@
+# .gitignore
+
+.bac
+ 
+# Shahar
+#--------------
+**/Action*/
+**/result*/
+**/resultSnap/
+**/profiles/
+**/data/
+**/snapshots/
+*.log
